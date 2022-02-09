@@ -1,8 +1,8 @@
 ### Hello World, I'm Vitor 👋
 <div>
   <ul>
-    <li>🔭 I'm currently working on Front-End, using Html, CSS and JavaScript technologies. </li>
-<li>🌱 I'm studying to become a Full-Stack Web Developer, I'm currently studying JavaScript</li>
+    <li>🔭 I'm currently working on Front-End, using Html, CSS, JavaScript, React technologies. </li>
+<li>🌱 I'm studying to become a Full-Stack Web Developer, I'm currently studying Nodejs, using Mongo database  </li>
 <li>💬 ask me about anything!</li>
 <li>😄 Pronouns: He/His</li>
 <li>⚡ Fun fact: I like being with my family, above all, and I also like playing CS:GO, soccer and of course, having a good coffee... </li>

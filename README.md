@@ -13,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorIMuller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorIMuller&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 ### Languages and tools:
  
  <div>
@@ -37,7 +38,7 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo Atlas%20-%2320232a.svg?&style=for-the-badge&color=ffffff&logo=MongoDB&logoColor=47A248"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Heroku%20-%2320232a.svg?&style=for-the-badge&color=430098&logo=Heroku&logoColor=ffffff"/>
   
-##
+###
  
 <div align = "center"> 
   <a href="https://instagram.com/_vitormullerr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -1,9 +1,7 @@
 ### Hello World, I'm Vitor 👋
 <div>
   <ul>
-<li>🌱 I'm a Full-Stack Web Developer  </li>
-<li>💬 ask me about anything!</li>
-<li>⚡ Fun fact: I like being with my family, above all, and I also like playing CS:GO, soccer and of course, having a good coffee... </li>
+<li>🌱 I'm a FullStack Developer </li>
   </ul>
 </div>
 <div align = "center">

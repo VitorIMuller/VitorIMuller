@@ -11,7 +11,7 @@
  <div>
   <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=000000" />
   <img style='margin: 5px;' src="https://img.shields.io/badge/TypeScript%20-%2320232a.svg?&style=for-the-badge&color=3178C6&logo=TypeScript&logoColor=ffffff"/>
-   <img style='margin: 5px;' src="https://img.shields.io/badge/nestjs%20-%2320232a.svg?&style=for-the-badge&color=#E0234E&logo=nestja&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/nestjs%20-%2320232a.svg?&style=for-the-badge&color=E0234E&logo=nestjs&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/node js%20-%2320232a.svg?&style=for-the-badge&color=339933&logo=node.js&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Express%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Express&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo db%20-%2320232a.svg?&style=for-the-badge&color=47A248&logo=MongoDB&logoColor=ffffff"/>
